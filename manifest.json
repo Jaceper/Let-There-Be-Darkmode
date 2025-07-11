@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Let There Be Dark",
+  "version": "1.0",
+  "description": "Automatically enables dark mode across all websites.",
+  "permissions": ["scripting"],
+  "host_permissions": ["<all_urls>"],
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "css": ["dm.css"]
+    }
+  ],
+  "action": {
+    "default_title": "Let There Be Dark"
+  }
+}
