@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Let There Be Dark",
+  "name": "Let There Be Darkmode",
   "version": "1.0",
   "description": "Automatically enables dark mode across all websites.",
   "permissions": ["scripting"],
