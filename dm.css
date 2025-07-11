@@ -1,0 +1,17 @@
+html, body {
+  background-color: #121212 !important;
+  color: #e0e0e0 !important;
+}
+
+img, video {
+  filter: brightness(0.85) contrast(1.1) !important;
+}
+
+a {
+  color: #90caf9 !important;
+}
+
+* {
+  background-color: transparent !important;
+  border-color: #444 !important;
+}
