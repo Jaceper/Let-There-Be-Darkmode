@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Let There Be Darkmode",
   "version": "1.0",
-  "description": "Automatically enables dark mode across all websites, with toggle.",
+  "description": "Toggleable dark mode across all websites",
   "permissions": ["storage"],
   "host_permissions": ["<all_urls>"],
   "action": {
